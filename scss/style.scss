@@ -1,0 +1,21 @@
+@import "./partials/animazioni";
+@import "./partials/bottoni";
+@import "./partials/colori";
+@import "./partials/font";
+@import "./partials/mixins";
+@import "./partials/reset";
+@import "./partials/spaziature";
+nav>img {
+    height: 50px;
+}
+section>img {
+    max-width: 40%;
+    float: right;
+}
+section {
+    overflow: auto;
+}
+
+.titleBig {
+    @include title-big($bg_hero, $font3)
+}

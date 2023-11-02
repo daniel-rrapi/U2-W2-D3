@@ -1,0 +1,4 @@
+@mixin title-big($bgColor, $font){
+    background-color: $bgColor;
+    font-size: $font;
+}

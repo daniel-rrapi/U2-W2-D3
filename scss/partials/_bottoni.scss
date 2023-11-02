@@ -1,0 +1,5 @@
+@each $el in $btnColorValues {
+    .btn-#{$el} {
+        background-color: $el;
+    }
+}
