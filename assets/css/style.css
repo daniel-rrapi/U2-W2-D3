@@ -1,13 +1,13 @@
-.btn-blue {
-  background-color: blue;
+.btn-primary {
+  background-color: #0e6cff;
 }
 
-.btn-orange {
-  background-color: orange;
+.btn-secondary {
+  background-color: #ff8700;
 }
 
-.btn-green {
-  background-color: green;
+.btn-tertiary {
+  background-color: #4caf50;
 }
 
 body {
